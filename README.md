@@ -42,4 +42,15 @@ This project demonstrates CAN bus communication using two ESP32 boards via TWAI 
 - Arduino C++ structure
 
 ## 📸 Example Output
+Message received: ID=0x123, Data=11 22 33 44 55 66 77 88
+
+
+## 📜 License
+MIT
+
+## 🙋‍♂️ Author
+Ashok Kumar Meena  
+IIT Madras  
+Firmware Intern @ Ather Energy  
+[LinkedIn](https://www.linkedin.com/in/yourprofile) | [Email](mailto:your@email.com)
 
