@@ -52,5 +52,5 @@ MIT
 Ashok Kumar Meena  
 IIT Madras  
 Firmware Intern @ Ather Energy  
-[LinkedIn](https://www.linkedin.com/in/yourprofile) | [Email](mailto:your@email.com)
+[LinkedIn](https://www.linkedin.com/in/ashok-kumar-meena-56a2b42a5/) | [Email](ashokameena2006@gmail.com)
 
